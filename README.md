@@ -1,7 +1,5 @@
-### Hi there 👋
-
-#### My name is bhavin sojitra
-#### I am software engineer from india 🇮🇳
+### Hi there 👋,
+my name is bhavin, i am from india 🇮🇳
 
 - 🧑‍🏭 I’m currently working on [sqlite-tui-go](https://github.com/c0d3-dump/sqlite-tui-go)
 - 🌱 I’m currently learning `go` language
