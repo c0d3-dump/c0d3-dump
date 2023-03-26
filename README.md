@@ -1,16 +1,14 @@
-### Hi there 👋,
-my name is bhavin, i am from india 🇮🇳
+### Hi there 👋
 
 - 🧑‍🏭 I’m currently working on [sqlite-tui-go](https://github.com/c0d3-dump/sqlite-tui-go)
-- 🌱 I’m currently learning `go` language
+- 🌱 I’m currently learning [go](https://go.dev) language
 - 📫 How to reach me: c0d3.dump@gmail.com
-- ⚡ Fun fact: i code in rust btw
 
 ### skills
 - rust 🦀
 - go
 - nodejs
-- python 
+- python
 - java
 
 #### past projects
