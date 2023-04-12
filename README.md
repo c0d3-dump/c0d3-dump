@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🧑‍🏭 I’m currently working on ...
+- 🧑‍🏭 I’m currently working on [mini-base](https://github.com/c0d3-dump/mini-base)
 - 🌱 I’m currently learning [go](https://go.dev) language
 - 📫 How to reach me: c0d3.dump@gmail.com
 
