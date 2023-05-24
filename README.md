@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🧑‍🏭 I’m currently working on [pcord](https://github.com/c0d3-dump/pcord)
+- 🧑‍🏭 I’m currently working on ...
 - 🌱 I’m currently learning [rust](https://www.rust-lang.org) language
 - 📫 How to reach me: c0d3.dump@gmail.com
 
