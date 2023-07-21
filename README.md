@@ -9,7 +9,7 @@
 - nodejs (react, svelte, nestjs, express)
 - python
 - java
-- SQL/NOSQL databases
+- Sql/Nosql databases
 
 #### my projects
 - [teester](https://github.com/c0d3-dump/teester): api testing utility with gui 
