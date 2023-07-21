@@ -1,17 +1,17 @@
 ### Hi there 👋
-
-- 🧑‍🏭 I’m currently working on ...
-- 🌱 I’m currently learning [rust](https://www.rust-lang.org) language
+ 
+- 🌱 I’m currently learning [rust](https://www.rust-lang.org) and [go](https://go.dev/) language
 - 📫 How to reach me: c0d3.dump@gmail.com
 
 ### skills
 - rust 🦀
 - go
-- nodejs
+- nodejs (react, svelte, nestjs, express)
 - python
 - java
+- SQL/NOSQL databases
 
-#### past projects
+#### my projects
 - [teester](https://github.com/c0d3-dump/teester): api testing utility with gui 
 - [mini-base](https://github.com/c0d3-dump/mini-base): minimal bass (backend as a service) written in rust with tui
 - [plang](https://github.com/c0d3-dump/plang): dead simple interpreted programming language written in rust 
