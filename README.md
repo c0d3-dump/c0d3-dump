@@ -7,9 +7,9 @@
 - rust 🦀
 - go
 - nodejs (react, svelte, nestjs, express)
-- python
-- java
 - Sql/Nosql databases
+- docker
+- java
 
 #### my projects
 - [teester](https://github.com/c0d3-dump/teester): api testing utility with gui 
