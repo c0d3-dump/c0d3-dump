@@ -7,6 +7,7 @@
 - rust 🦀
 - go
 - nodejs (react, svelte, nestjs, express)
+- python (langchain, flask)
 - Sql/Nosql databases
 - docker
 - java
