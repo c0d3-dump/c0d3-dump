@@ -1,16 +1,16 @@
 ### Hi there 👋
  
-- 🌱 I’m currently learning [rust](https://www.rust-lang.org) and [go](https://go.dev/) language
+- 🌱 I’m currently learning [rust](https://www.rust-lang.org)
+- Currently working on multiplayer addon for Godot with rust websocket backend (will also create udp as optional)
 - 📫 How to reach me: c0d3.dump@gmail.com
 
 ### skills
-- rust 🦀
-- go
-- nodejs (react, svelte, nestjs, express)
-- python (langchain, flask)
+- rust (axum, tauri)
+- go (fiber, gorm)
+- nodejs (react, angular, express, nestjs)
+- python (flask, langchain [AI])
 - Sql/Nosql databases
 - docker
-- java
 
 #### my projects
 - [mini-base](https://github.com/c0d3-dump/mini-base): minimal bass (backend as a service) written in rust with tui
