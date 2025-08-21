@@ -14,12 +14,12 @@
 
 ## 🛠️ Skills
 
-- **Rust** → `axum`, `tauri`  
-- **Go** → `fiber`, `gorm`  
-- **Node.js** → `express`, `nestjs`, `react`, `angular`  
-- **Python** → `flask`, `langchain (AI)`  
-- **Databases** → SQL / NoSQL  
-- **Tools** → Docker, Git, Linux  
+- **Rust** → `axum`, `tauri`, `bevy`
+- **Go** → `fiber`, `gorm`
+- **Node.js** → `express`, `nestjs`, `react`, `angular`
+- **Python** → `flask`, `langchain (AI)`
+- **Databases** → SQL / NoSQL
+- **Tools** → Docker, Git, Linux
 
 ---
 
