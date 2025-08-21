@@ -1,6 +1,6 @@
 # Hi there 👋
 
-🚀 Software Engineer | Backend Developer | Open Source Enthusiast  
+🚀 Software Engineer | Game Developer | Open Source Enthusiast  
 
 ---
 
