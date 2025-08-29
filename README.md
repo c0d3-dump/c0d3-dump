@@ -17,8 +17,6 @@
 ## 📂 Featured Projects
 - [*ws-godot-addon*](https://github.com/c0d3-dump/ws-godot-addon)  
  Multiplayer WebSocket addon for Godot Engine
-- [**ws-server**](https://github.com/c0d3-dump/ws-server)  
- High-performance WebSocket server backend in Rust
 - [**mini-base**](https://github.com/c0d3-dump/mini-base)  
  Minimal Backend-as-a-Service written in Rust with TUI  
 - [**teester**](https://github.com/c0d3-dump/teester)  
