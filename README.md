@@ -1,7 +1,6 @@
 # Hi there 👋
 🚀 Software Engineer | Game Developer | Open Source Enthusiast  
 
----
 ### 🔨 Currently Building
 - Easiest and powerful **Multiplayer addon for Godot** with a Rust WebSocket backend (UDP support coming soon ⚡) 
 
@@ -11,7 +10,7 @@
 - [Go](https://go.dev)
 
 📫 Reach me at: **c0d3.dump@gmail.com**  
----
+
 ## 🛠️ Skills
 - **Rust** → `axum`, `tauri`, `bevy`
 - **Go** → `fiber`, `gorm`
@@ -22,7 +21,6 @@
 - **Cloud** → `aws`, `digitalocean`
 - **Other** → `kafka`, `RAG`, `NEAT`, `Godot`
   
----
 ## 📂 Featured Projects
 - [**mini-base**](https://github.com/c0d3-dump/mini-base)  
  Minimal Backend-as-a-Service written in Rust with TUI  
@@ -35,10 +33,9 @@
 - [**sqlite-tui-go**](https://github.com/c0d3-dump/sqlite-tui-go)  
  TUI tool to interact with SQLite in Go
 
----
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=c0d3-dump&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c0d3-dump&layout=compact&theme=tokyonight)
----
+
 
 ✨ Always building, always learning. Let's connect and create something awesome!
