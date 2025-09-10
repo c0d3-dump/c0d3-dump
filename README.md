@@ -14,7 +14,7 @@
 ## 🛠️ Skills
 - **Rust** → `axum`, `tauri`, `bevy`
 - **Go** → `fiber`, `gorm`
-- **Node.js** → `express`, `nestjs`, `react`, `angular`
+- **Node.js** → `express`, `astro`, `react`, `angular`
 - **Python** → `flask`, `langchain (AI)`, `langgraph (AI)`
 - **Databases** → `sqlite`, `postgres`, `mysql`, `mongo`, `redis`
 - **Tools** → `Docker`, `Git`, `Linux`, `Temporal`
