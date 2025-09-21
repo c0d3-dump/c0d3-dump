@@ -3,7 +3,7 @@
 
 ### 🔨 Currently Building
 - Easiest and powerful **Multiplayer addon for Godot** with a Rust WebSocket backend (UDP support coming soon ⚡) 
-- Building supabase rust client [because there isn't any :)]
+- Building supabase rust client [because there isn't any :)] (https://crates.io/crates/supa_rs)
 
 ### 🌱 Currently Learning
 - [Rust](https://www.rust-lang.org)
