@@ -30,7 +30,7 @@
  API testing utility with a clean GUI  
 - [**plang**](https://github.com/c0d3-dump/plang)  
  A dead-simple interpreted programming language in Rust  
-- [**supa_rs**](https://crates.io/crates/supa_rs)
+- [**supa_rs**](https://crates.io/crates/supa_rs)    
  Supabase Rust client
 - [**sqlite-tui-go**](https://github.com/c0d3-dump/sqlite-tui-go)  
  TUI tool to interact with SQLite in Go
