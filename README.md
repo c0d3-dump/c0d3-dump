@@ -37,7 +37,7 @@
 
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=c0d3-dump&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c0d3-dump&layout=compact&theme=tokyonight)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c0d3-dump&layout=compact&theme=tokyonight)     
+<img src="https://profile-counter.deno.dev/c0d3-dump/count.svg" alt="Key:: Visitor's Count" />
 
 ✨ Always building, always learning. Let's connect and create something awesome!
