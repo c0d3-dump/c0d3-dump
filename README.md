@@ -2,8 +2,9 @@
 🚀 Software Engineer | Game Developer | Open Source Enthusiast  
 
 ### 🔨 Currently Building
-- Easiest and powerful **Multiplayer addon for Godot** with a Rust WebSocket backend (UDP support coming soon ⚡) 
-- Building supabase rust client [because there isn't any :)] (https://crates.io/crates/supa_rs)
+- Easiest and powerful **Multiplayer addon for Godot** with a Rust WebSocket backend (UDP support coming soon ⚡)
+- P2P resumable file sharing (web + desktop + mobile) (Iroh + tauri)
+- P2P audio chat (Iroh + tauri)
 - AI saas to help developers and enterprises stay productive
 
 ### 🌱 Currently Learning
@@ -14,7 +15,7 @@
 📫 Reach me at: **c0d3.dump@gmail.com**  
 
 ## 🛠️ Skills
-- **Rust** → `axum`, `tauri`, `bevy`
+- **Rust** → `axum`, `tauri`, `bevy`, `Iroh`
 - **Go** → `fiber`, `gorm`
 - **Node.js** → `express`, `astro`, `react`, `angular`
 - **Python** → `flask`, `langchain (AI)`, `langgraph (AI)`
