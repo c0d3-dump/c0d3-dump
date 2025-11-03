@@ -2,9 +2,8 @@
 🚀 Software Engineer | Game Developer | Open Source Enthusiast  
 
 ### 🔨 Currently Building
-- Easiest and powerful **Multiplayer addon for Godot** with a Rust WebSocket backend (UDP support coming soon ⚡)
+- Easiest and powerful **Multiplayer addon for Godot** with a Rust WebSocket + udp backend
 - P2P resumable file sharing (web + desktop + mobile) (Iroh + tauri)
-- P2P audio chat (Iroh + tauri)
 - AI saas to help developers and enterprises stay productive
 
 ### 🌱 Currently Learning
