@@ -2,9 +2,9 @@
 🚀 Software Engineer | Game Developer | Open Source Enthusiast  
 
 ### 🔨 Currently Building
-- Easiest and powerful **Multiplayer addon for Godot** with a Rust WebSocket + udp backend
-- P2P resumable file sharing (web + desktop + mobile) (Iroh + tauri)
-- AI saas to help developers and enterprises stay productive
+- Easiest and powerful **No code addon for Godot** with multiplayer built in
+- P2P resumable file sharing app (Leptos + Iroh)
+- AI to generate pixel art (reliably)
 
 ### 🌱 Currently Learning
 - [Rust](https://www.rust-lang.org)
@@ -14,7 +14,7 @@
 📫 Reach me at: **c0d3.dump@gmail.com**  
 
 ## 🛠️ Skills
-- **Rust** → `axum`, `tauri`, `bevy`, `Iroh`
+- **Rust** → `axum`, `tauri`, `bevy`, `Iroh`, `leptos`
 - **Go** → `fiber`, `gorm`
 - **Node.js** → `express`, `astro`, `react`, `angular`
 - **Python** → `flask`, `langchain (AI)`, `langgraph (AI)`
