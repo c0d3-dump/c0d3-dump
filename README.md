@@ -3,8 +3,8 @@
 
 ### 🔨 Currently Building
 - Easiest and powerful **No code addon for Godot** with multiplayer built in
-- P2P resumable file sharing app (Leptos + Iroh)
 - AI to generate pixel art (reliably)
+- p2p data sharing [sharer](https://sharer.brokli.dev)
 
 ### 🌱 Currently Learning
 - [Rust](https://www.rust-lang.org)
