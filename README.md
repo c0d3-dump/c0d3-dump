@@ -1,10 +1,6 @@
 # Hi there 👋
 🚀 Software Engineer | Game Developer | Open Source Enthusiast  
 
-### 🔨 Currently Building
-- Easiest and powerful **No code addon for Godot** with multiplayer built in
-- p2p text data sharing [sharer](https://sharer.brokli.dev)
-
 ### 🌱 Currently Learning
 - [Rust](https://www.rust-lang.org)
 - [Godot](https://godotengine.org)
